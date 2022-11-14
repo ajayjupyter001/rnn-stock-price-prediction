@@ -39,8 +39,8 @@ Plot graph and find the mse value.
 ## PROGRAM
 
 
-name : Sri hari krishnan R
-reg no: 212219040150
+name : Ajay A
+reg no: 212219040006
 
 import numpy as np
 import matplotlib.pyplot as plt
